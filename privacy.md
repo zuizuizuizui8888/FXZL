@@ -8,4 +8,4 @@ FXZL ("we", "our", or "us") respects your privacy. This application uses Google 
 We only request the minimum necessary permissions required to operate the service. We do not store, sell, trade, or transfer your personal Google account data to any outside parties.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please contact us at: juft794@gmail.com
+If you have any questions about this Privacy Policy, please contact us at: 
